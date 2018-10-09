@@ -7,6 +7,7 @@ class SearchLocators:
     RED_PLAYER_NAME_XP = '//android.view.ViewGroup[1]/android.widget.TextView[1]'
     APP_NAME_ID = 'com.leia.leialoft:id/title'
     RESULTS_APP_COVER_IMAGE = 'com.leia.leialoft:id/parallax_cover_image'
+    RED_PLAYER_AUTOCOMPLETE_BUTTON_XP = '//android.view.ViewGroup[1]'
 
 
 

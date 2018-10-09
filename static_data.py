@@ -6,3 +6,5 @@ class StaticData:
     MIDDLE_PART_OF_WORD = 'd p'
     END_PART_OF_WORD = 'yer'
     TWO_SYMBOLS = 'yy'
+    SIX_SYMBOLS = 'red pl'
+    NOT_EXISTING_APP = 'zsexsdrcft'
