@@ -8,3 +8,11 @@ class StaticData:
     TWO_SYMBOLS = 'yy'
     SIX_SYMBOLS = 'red pl'
     NOT_EXISTING_APP = 'zsexsdrcft'
+
+
+    #Explore page
+    EXPLORE_PAGE_TITLE = 'Explore'
+    EXPLORE_PAGE_GAMES_TAB_NAME = 'Games'
+    EXPLORE_PAGE_APPS_TAB_NAME = 'Apps'
+    EXPLORE_PAGE_GAMES_TAB_SELECTED = 'true'
+    EXPLORE_PAGE_APPS_TAB_NOT_SELECTED = 'false'

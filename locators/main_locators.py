@@ -21,3 +21,8 @@ class MainLocators:
     APP_ICON_ID = 'com.leia.leialoft:id/thumbnail'
     APP_TO_OPEN_TOP_PICKS_XP = '(//android.widget.ImageView[@resource-id="com.leia.leialoft:id/thumbnail"])[3]'
     APP_TO_OPEN_EDITORS_CHOICE_XP = '(//android.widget.ImageView[@resource-id="com.leia.leialoft:id/thumbnail"])[9]'
+
+    # Bottom menu
+    HOME_BUTTON_XP = '//android.support.v7.app.ActionBar.Tab[1]/android.widget.FrameLayout/android.widget.LinearLayout'
+    EXPLORE_BUTTON_XP = '//android.support.v7.app.ActionBar.Tab[2]/android.widget.FrameLayout/android.widget.LinearLayout'
+    MY_APPS_GAMES_BUTTON_XP = '//android.support.v7.app.ActionBar.Tab[3]/android.widget.FrameLayout/android.widget.LinearLayout'

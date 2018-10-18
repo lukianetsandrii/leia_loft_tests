@@ -144,5 +144,12 @@ class Actions(drivers.Driver):
 
          return search_field
 
+    def get_attribute_value_from_element_id(self, driver, locator, attribute):
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, locator)))
+        element = driver.find_element_by_id(locator)
+        attrib = element.get_attribute(attribute)
+
+        return attrib
+
 
 
