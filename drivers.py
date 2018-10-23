@@ -12,7 +12,7 @@ class Driver():
             "appActivity": "com.leia.leialoft.ui.splash.view.SplashActivity",
             "platformName": "Android",
             "platformVersion": "8.1.0",
-            "deviceName": "3a90b04d",
+            "deviceName": "807d731c",
             "appPackage": "com.leia.leialoft",
             "noReset": "true",
             # "autoGrantPermissions": "true"
